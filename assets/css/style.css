@@ -108,7 +108,7 @@ section {
 
 .breadcrumbs ol a {
   color: #fff;
-  transition: 0.15s;
+  transition: 0.05s;
 }
 
 .breadcrumbs ol a:hover {
@@ -140,7 +140,7 @@ section {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  transition: all 0.2s;
+  transition: all 0.05s;
 }
 
 .back-to-top i {
@@ -172,7 +172,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .header {
-  transition: all 0.3s;
+  transition: all 0.1s;
   z-index: 997;
   padding: 20px 0;
 }
@@ -202,7 +202,7 @@ section {
 
 .header .logo span {
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 1000;
   letter-spacing: 1px;
   color: #012970;
   font-family: "Nunito", sans-serif;
@@ -250,7 +250,7 @@ section {
   font-weight: 700;
   color: #013289;
   white-space: nowrap;
-  transition: 0.15s;
+  transition: 0.05s;
 }
 
 .navbar a i,
@@ -294,7 +294,7 @@ section {
   visibility: hidden;
   background: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
-  transition: 0.15s;
+  transition: 0.05s;
   border-radius: 4px;
 }
 
@@ -357,7 +357,7 @@ section {
   cursor: pointer;
   display: none;
   line-height: 0;
-  transition: 0.3s;
+  transition: 0.05s;
 }
 
 .mobile-nav-toggle.bi-x {
@@ -388,7 +388,7 @@ section {
   left: 0;
   bottom: 0;
   background: rgba(1, 22, 61, 0.9);
-  transition: 0.15s;
+  transition: 0.05s;
 }
 
 .navbar-mobile .mobile-nav-toggle {
@@ -408,7 +408,7 @@ section {
   border-radius: 10px;
   background-color: #fff;
   overflow-y: auto;
-  transition: 0.15s;
+  transition: 0.05s;
 }
 
 .navbar-mobile a,
@@ -491,7 +491,7 @@ section {
   line-height: 0;
   padding: 15px 40px;
   border-radius: 4px;
-  transition: 0.3s;
+  transition: 0.05s;
   color: #fff;
   background: #4154f1;
   box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
@@ -507,7 +507,7 @@ section {
 .hero .btn-get-started i {
   margin-left: 5px;
   font-size: 18px;
-  transition: 0.15s;
+  transition: 0.05s;
 }
 
 .hero .btn-get-started:hover i {
@@ -591,7 +591,7 @@ section {
   line-height: 0;
   padding: 15px 40px;
   border-radius: 4px;
-  transition: 0.3s;
+  transition: 0.05s;
   color: #fff;
   background: #4154f1;
   box-shadow: 0px 5px 25px rgba(65, 84, 241, 0.3);
@@ -607,7 +607,7 @@ section {
 .about .btn-read-more i {
   margin-left: 5px;
   font-size: 18px;
-  transition: 0.15s;
+  transition: 0.05s;
 }
 
 .about .btn-read-more:hover i {
@@ -621,13 +621,13 @@ section {
   padding: 30px;
   box-shadow: 0px 0 5px rgba(1, 41, 112, 0.08);
   text-align: center;
-  transition: 0.15s;
+  transition: 0.05s;
   height: 100%;
 }
 
 .values .box img {
   padding: 30px 50px;
-  transition: 0.3s;
+  transition: 0.05s;
   transform: scale(1.1);
 }
 
@@ -689,7 +689,7 @@ section {
 .features .feature-box {
   padding: 24px 20px;
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
-  transition: 0.15s;
+  transition: 0.05s;
   height: 100%;
 }
 
@@ -707,7 +707,7 @@ section {
   margin-right: 10px;
   font-size: 24px;
   border-radius: 3px;
-  transition: 0.15s;
+  transition: 0.05s;
 }
 
 .features .feature-box:hover i {
@@ -816,7 +816,7 @@ section {
   height: 100%;
   padding: 60px 30px;
   text-align: center;
-  transition: 0.15s;
+  transition: 0.05s;
   border-radius: 5px;
 }
 
@@ -828,7 +828,7 @@ section {
   margin-bottom: 25px;
   display: inline-block;
   line-height: 0;
-  transition: 0.15s;
+  transition: 0.05s;
 }
 
 .services .service-box h3 {
@@ -974,7 +974,7 @@ section {
   border-radius: 4px;
   position: relative;
   overflow: hidden;
-  transition: 0.15s;
+  transition: 0.05s;
 }
 
 .pricing .box:hover {
@@ -1040,7 +1040,7 @@ section {
   font-weight: 400;
   font-family: "Nunito", sans-serif;
   font-weight: 600;
-  transition: 0.15s;
+  transition: 0.05s;
   border: 1px solid #4154f1;
 }
 
@@ -1115,7 +1115,7 @@ section {
   line-height: 1;
   color: #444444;
   margin: 0 4px 8px 4px;
-  transition: 0.15s;
+  transition: 0.05s;
   border-radius: 50px;
   border: 1px solid #fff;
 }
@@ -1131,7 +1131,7 @@ section {
 }
 
 .portfolio .portfolio-wrap {
-  transition: 0.15s;
+  transition: 0.05s;
   position: relative;
   overflow: hidden;
   z-index: 1;
@@ -1152,7 +1152,7 @@ section {
 }
 
 .portfolio .portfolio-wrap img {
-  transition: 1s;
+  transition: 0.05s;
 }
 
 .portfolio .portfolio-wrap .portfolio-info {
@@ -1164,7 +1164,7 @@ section {
   bottom: 0;
   text-align: center;
   z-index: 3;
-  transition: all ease-in-out 0.1s;
+  transition: all ease-in-out 0.05s;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1181,7 +1181,7 @@ section {
   left: 35px;
   border-top: 3px solid rgba(1, 41, 112, 0.2);
   border-left: 3px solid rgba(1, 41, 112, 0.2);
-  transition: all 0.5s ease 0s;
+  transition: all 0.05s ease 0s;
   z-index: 9994;
 }
 
@@ -1195,7 +1195,7 @@ section {
   right: 35px;
   border-bottom: 3px solid rgba(1, 41, 112, 0.2);
   border-right: 3px solid rgba(1, 41, 112, 0.2);
-  transition: all 0.5s ease 0s;
+  transition: all 0.05s ease 0s;
   z-index: 9994;
 }
 
@@ -1229,7 +1229,7 @@ section {
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  transition: 0.1s;
+  transition: 0.05s;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a i {
@@ -1362,7 +1362,7 @@ section {
   display: flex;
   flex-direction: column;
   text-align: center;
-  transition: 0.1s;
+  transition: 0.05s;
 }
 
 .testimonials .testimonial-item .stars {
@@ -1451,7 +1451,7 @@ section {
   border-radius: 5px;
   background: #fff;
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
-  transition: 0.1s;
+  transition: 0.05s;
 }
 
 .team .member .member-img {
@@ -1477,7 +1477,7 @@ section {
   top: 30px;
   opacity: 0;
   border-radius: 4px;
-  transition: 0.3s;
+  transition: 0.05s;
   background: rgba(255, 255, 255, 0.3);
   z-index: 2;
 }
@@ -1540,7 +1540,7 @@ section {
 --------------------------------------------------------------*/
 .clients .clients-slider .swiper-slide img {
   opacity: 1;
-  transition: 0.1s;
+  transition: 0.05s;
 }
 
 .clients .clients-slider .swiper-slide img:hover {
@@ -1569,7 +1569,7 @@ section {
 --------------------------------------------------------------*/
 .recent-blog-posts .post-box {
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
-  transition: 0.1s;
+  transition: 0.05s;
   height: 100%;
   overflow: hidden;
   padding: 30px;
@@ -1586,7 +1586,7 @@ section {
 }
 
 .recent-blog-posts .post-box .post-img img {
-  transition: 0.1s;
+  transition: 0.05s;
 }
 
 .recent-blog-posts .post-box .post-date {
@@ -1603,7 +1603,7 @@ section {
   font-weight: 700;
   margin-bottom: 18px;
   position: relative;
-  transition: 0.1s;
+  transition: 0.05s;
 }
 
 .recent-blog-posts .post-box .readmore {
@@ -1611,7 +1611,7 @@ section {
   align-items: center;
   font-weight: 600;
   line-height: 1;
-  transition: 0.1s;
+  transition: 0.05s;
 }
 
 .recent-blog-posts .post-box .readmore i {
@@ -1729,7 +1729,7 @@ section {
   border: 0;
   padding: 10px 30px;
   color: #fff;
-  transition: 0.4s;
+  transition: 0.05s;
   border-radius: 4px;
 }
 
@@ -2307,7 +2307,7 @@ section {
   margin: 3px;
   background: #4154f1;
   color: #fff;
-  transition: 0.1s;
+  transition: 0.05s;
   border-radius: 4px;
 }
 
@@ -2345,7 +2345,7 @@ section {
 
 .footer .footer-top .footer-info .logo span {
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 1000;
   letter-spacing: 1px;
   color: #012970;
   font-family: "Nunito", sans-serif;
